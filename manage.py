@@ -1,5 +1,5 @@
 #This  is a project by Devesh.
-#MR M.R. might stole it as he has been doing this to act cool since ages
+#M.R. might stole it as he has been doing this to act cool since ages.Lol
 #!/usr/bin/env python
 import os
 import sys
